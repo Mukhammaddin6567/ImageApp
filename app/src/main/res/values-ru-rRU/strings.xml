@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image App</string>
+    <string name="uzbek">O\'zbekcha</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+    <string name="select_language_en">Select language</string>
+    <string name="select_language_ru">Выбор языка</string>
+    <string name="select_language_uz">Tilni tanlash</string>
+    <string name="submit_en">Submit</string>
+    <string name="submit_ru">Подтвердить</string>
+    <string name="submit_uz">Tasdiqlash</string>
+    <string name="unknown_error">Произошла неизвестная ошибка, повторите попытку позже</string>
+    <string name="author">Автор: %1$s</string>
+    <string name="height">Высота: %1$d</string>
+    <string name="width">Ширина: %1$d</string>
+    <string name="url">URL-адрес: %1$s</string>
+    <string name="download_url">URL-адрес загрузки: %1$s</string>
+    <string name="select_language">Language</string>
+    <string name="dark">Темный режим</string>
+    <string name="light">Светлый режим</string>
+</resources>

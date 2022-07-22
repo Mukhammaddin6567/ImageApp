@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image App</string>
+    <string name="uzbek">O\'zbekcha</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+    <string name="select_language_en">Select language</string>
+    <string name="select_language_ru">Выбор языка</string>
+    <string name="select_language_uz">Tilni tanlash</string>
+    <string name="submit_en">Submit</string>
+    <string name="submit_ru">Подтвердить</string>
+    <string name="submit_uz">Tasdiqlash</string>
+    <string name="unknown_error">Noma\'lum xatolik yuz berdi, keyinroq qayta urinib ko\'ring</string>
+    <string name="author">Muallif: %1$s</string>
+    <string name="height">Balandligi: %1$d</string>
+    <string name="width">Kengligi: %1$d</string>
+    <string name="url">URL-adres: %1$s</string>
+    <string name="download_url">Yuklab olish URL: %1$s</string>
+    <string name="select_language">Language</string>
+    <string name="dark">Qorong\'i rejimi</string>
+    <string name="light">Нorug\'lik rejimi</string>
+</resources>
